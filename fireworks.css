@@ -1,0 +1,31 @@
+<style>
+  body {
+    margin: 0;
+    background-color: #000;
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .projectile {
+    position: absolute;
+    width: 5px;
+    height: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+  }
+
+  .particle {
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    pointer-events: none;
+  }
+
+  .sparkle {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    pointer-events: none;
+  }
+</style>
