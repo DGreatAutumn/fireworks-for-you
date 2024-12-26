@@ -1,7 +1,7 @@
 <style>
   body {
     margin: 0;
-    background-color: #000;
+    background-color: #161414;
     overflow: hidden;
     height: 100vh;
   }
@@ -10,7 +10,7 @@
     position: absolute;
     width: 5px;
     height: 10px;
-    background-color: #fff;
+    background-color: #aa1c97;
     border-radius: 50%;
   }
 
